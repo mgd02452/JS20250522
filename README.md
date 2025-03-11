@@ -46,7 +46,7 @@ Especificaciones:
 
 **Ejercicio 2**
 
-Mediante JSON haz que la aplicación esté disponible en los idiomas español e inglés pudiendo cambiar entre estos idiomas con un select. El cambio de idioma afectará al título, al botón ```agregar``` y al selector de idioma (a su etiqueta si estuviese etiquetado y al propio selector).
+Mediante JSON haz que la aplicación esté disponible en los idiomas español e inglés pudiendo cambiar entre estos idiomas con un select.
 
 ## Rúbrica
 
