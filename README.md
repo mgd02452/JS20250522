@@ -38,7 +38,7 @@ Especificaciones:
 
         * Al pulsar sobre el primero, se debe aplicar la regla ```.completed``` definida en ```estilos.css``` al elemento ```<li>``` contendor (esto lo marcará como completado). Si se vuelve a pulsar el botón se revertira este elmento a su estado inicial.
 
-        * Al pulsar sobre el segundo, se debe eliminar el elemento ```<li>``` contendor.
+        * Al pulsar sobre el segundo, se debe eliminar el elemento ```<li>``` contendor pidiendo confirmación.
 
     * Añadir el elemento ```<li>``` creado al elemento ```<ul>```.
 
@@ -63,14 +63,15 @@ En el método ```addItem```:
 * 1 punto: se limpia el input para aceptar el siguiente item.
 
 En el primer elemento ```<span>```:
-a
+
 * 1 punto: se aplica la regla CSS especificada al elemento ```<li>``` contenedor cuando se pulsa sobre este elemento.
 
 * 1,5 puntos: se revierte el elemento ```<li>``` contenedor a su estado inicial si se vuelve a pulsar sobre este elemento.
 
 En el segundo elemento ```<span>```:
 
-* 1 punto: se elimina el elemento ```<li>``` contenedor cuando se pulsa sobre este elemento.
+* 0,5 puntos: se elimina el elemento ```<li>``` contenedor cuando se pulsa sobre este elemento.
+* 1 punto: el elemento se elimina pidiendo confirmación.
 
 **Ejercicio 2**
 
