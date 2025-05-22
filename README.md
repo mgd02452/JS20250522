@@ -1,5 +1,5 @@
 # Examen Extraordinario Pendientes
-**1º DAM - LMSGI - 11 de marzo de 2025**
+**1º DAM - LMSGI - 22 de mayo de 2025**
 
 Haz un fork de este repositorio desde tu cuenta de GitHub, clónalo y abrelo desde el IDE que vayas a utilizar para resolver el ejercicio (Visual Studio Code, Brackets, ...)
 
